@@ -1,2 +1,1 @@
-# PreCourse-Henry
-Este es un repositorio del modulo 2 de Soy Henry
+este proyecto es una prueba de un repositorio y clonarlo desde git hub
